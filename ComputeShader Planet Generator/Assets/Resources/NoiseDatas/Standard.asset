@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffea3279d326d664cba51d166585ee66, type: 3}
+  m_Name: Standard
+  m_EditorClassIdentifier: 
+  offsets:
+  - {x: 7296.808, y: 6948.5977, z: 5701.413}
+  - {x: 8184.449, y: 7747.5996, z: 3824.6914}
+  - {x: -4992.01, y: -2088.5764, z: 4877.925}
+  - {x: -3414.544, y: -3233.956, z: -1195.5469}
+  - {x: -1730.7529, y: -8559.043, z: -2379.3162}
+  - {x: -7210.129, y: -5265.253, z: 4656.26}
+  - {x: 9196.329, y: 4721.31, z: 7003.91}
+  - {x: -9975.314, y: 8416.609, z: -9900.363}
+  octaves: 8
+  lacunarity: 1.45
+  persistence: 0.62
+  noiseScale: 10
+  noiseWeight: 10000
+  weightMultiplier: 4
